@@ -27,7 +27,7 @@ We suggest that you contribute to introduce Artificial Inteligence to make the g
 
 [3] Terrence W. Pratt, Marvin V. Zelkowitz: Llenguatges de programació. Disseny i implementació. Prentice Hall, 3a ed. , 1997. ISBN: 970-17-0046-5
 
-Author contact
-Lluis Badia
-C\ Roc Boronat ,
-08018 Barcelona, Spain
+## Author contact
+Lluis Badia.
+C\ Roc Boronat.
+08018 Barcelona, Spain.
